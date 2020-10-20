@@ -336,6 +336,7 @@ numéraire, l'argent versé fait parti des capitaux (fonds propre de la sociét�
   - L'hypothèque (porte sur des immeubles)
 
 ## Gestion et Responsabilité 
+---
 *Note : gouvernance d'entreprise (comp governments)*
 
 Il y un une différence majorité simple (50%) et majorité qualifiée (75%). C'est % sont déterminé par rapports aux apports (exception faîtes des coopératives).
@@ -369,8 +370,38 @@ les gérants sont reponsables, individuellement ou solidairement en cas de faute
     La loi prévoit une liste des pouvoirs du consiel d'administration.
 
     Le conseil désigne souvent une, deux ou trois personnes (des directeurs), qui s'assurent de la bonne direction journalière. (DG, délégué à la gestion journalière, Chief Executive Offcier, etc...). Ce sont eux qui signent les documents.
+
+  - **Système Dualiste :**
+
+    Tend à renforcer le contrôle interne de l'entreprise. On a un conseil d'administration et un conseil de surveillance.
+
+    L'assemblée générale ne désignait pas les membres du conseil d'administration, mais la moitié du conseil de surveillance (une moitié désignée par les travailleurs, l'autre par le conseil d'administration). On ne peut etre dans le commité de surveillance et dans le conseil d'administration.
+    Il y a aussi un commité de direction désigné par l'assemblée générale ou par le commité de surveillance. 
+    
+    Ce système d'administration n'existait à la base qu'en Allemagne, mais se démocratise suite à certains scandales. Problème : structure très lourde, donc ne convient peut être pas à toutes les situations. On peut choisir un modèle ou l'autre, mais on doit le justifier.
+
+  ### Responsabilité civile des dirigeants de l'entreprise et des fondateurs
+
+    Pour protéger les petits actionnaires, il est nécéssaire d'avoir un commité d'audit interne, obligation d'avoir un commité de rémunération (pour éviter les golden parachutes, pour rendre transparents la politique de l'entreprise en métière de rémunération), transparence (déclaration publique pour tout ce qui peut affecter la valeur de l'action).
+
+  - Responsabilité pour faute de gestion (le conseil de gestion doit rendre des comptes).
+  - Responsabilité pour violation des statuts (ou de la loi).
+  - Responsabilité 
   
 
+[TROU]
+
+
+### Le régime de la TVA
+
+C'est une opération neutre pour une entreprise. On doit régler la TVA au moment où elle est facturée, et non au moment où elle est payée.
+
+L'entreprise facture le montant de base plus la tva, que l'entreprise perçoit et reverse à l'état.
+
+L'entreprise gère la collecte pour les organismes sociaux.
+
+## Statut fiscal et social du dirigeant
+---
 
 
 
