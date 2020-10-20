@@ -10,7 +10,7 @@ enseignant: "Erik VAN DEN HAUTE"
   *l'évaluation sera une analyse des éléments juridiques sur un cas d'étude (i.e projet de groupe)*
 
 ## Structure du cours
-
+---
   - Sources 
   - Le projet et ses implications juridiques
   - L'entreprise: typologie et identification
@@ -20,7 +20,7 @@ enseignant: "Erik VAN DEN HAUTE"
   - Propriété intellectuelle
   
 ## Sources
-
+---
 ### **Droit étatique**
 
   - texte de loi (i.e que dit la loi dans ce pays ?)
@@ -64,7 +64,7 @@ enseignant: "Erik VAN DEN HAUTE"
    Pincipes Unidroit (dans la lex mercatoria).
 
 ## L'entreprise: typologie et identification
-
+---
 ### Questions préalables :
 
   - Personnalité juridique ou non ?
@@ -207,6 +207,174 @@ Critères de la nationalité des sociétés :
   - *Private Limited Companie :* Société fermée dans laquelle la cession des parts se fait en priorité aux associés, et la cession se fait au même prix que la valeur de la part.
   - *société privée a responabilité limitée (société unipersonnelle != auto-entrepreneur) :* On s'associe à soi même, permet de protéger son patrimoine personnel, et de ne payer que l'impôt des sociétés (25 à 30%).
   
+
+
+##
+
+## Droit des sociétés 
+---
+### Lex societatis (loi applicable aux sociétés)
+
+- Théorie de l'incorporation
+  
+  One regarde le pays où la société est "incorporée" (crée), et on applique le droit de cet Etat. C'est le cas pour Belgique, USA, UK... Mais pas la France !
+
+  L'intérêt pour un pays de choisir l'incorporation est d'attirer les entreprises
+
+  Avantage | Inconvénient
+  --- |---
+  Stabilité (on sait où elle est, et ça ne changera jamais), facilité d'usage | On va appliquer une loi qui n'a pas nécéssairement beacuoup de lien avec les activités de la société ; Encourage la fraude
+  
+- Théorie du Siège réel
+
+  On applique la loi du pays dans lequel la société à son siège réel. C'est ce qui s'applique en France. 
+  
+  >On appelle Siège réel l'endroit où la société possède son siège de décision. C'est généralement aussi l'endroit où sont détenus les documents de la société (comptabilité, etc...).
+
+  Avantage | Inconvénient
+  --- |---
+  Loi plus en lien avec les activités de la société | Pas stable ; On peut déplacer le siège réel, et donc la loi applicable (aller dans un pays avec un capital minimum plus faible) ; Aussi, tous les pays ne définissent pas tous le siège réel de la même manière.
+  
+  Problème : cas où la société est incorporée dans un pays où la loi utilise la théorie de l'incorporation, mais a son siège réel dans un pays qui suit la théorie du siège réel.
+
+  Difficile vois impossible de déplacer son siège statutaire (dissolution puis recréation).
+
+  déplacement du siège réel Pays d'origine -> Pays destination | Inc | Siège Réel
+  --- | --- | ---
+  **Inc** | loi origine | loi origine
+  **Siège Réel** | conflit | loi du pays destinataire
+
+  *Exercice :* Déterminer la loi applicable pour facebook
+
+**Domaine de la Lex Societatis**
+
+- Formalités et conditions de constitution - sanctions - personnalité juridique -apports nécessaires - possibilité de prévoir une clause attributive de juridiction (quel est le juge qui doit résoudre les éventuels litiges)
+- Détermine comment on peut devenir actionnaire ou associé, et des droits attachés à cette qualité
+- Détermine la composition, les attributions et modalités d'exercice des organes sociaux (Pouvoir de représentation des mandataires sociaux)
+- Causes de dissolution - Conditions et modalités de dissolution
+  
+### Reconnaissance de la personnalité morale
+
+- Théorie de l'incorporation :
+  
+  Une société / association créée valablement sous l'empire d'un droit étranger, doit être reconnue dans le pays d'accueil
+
+- Théorie du siège réel
+
+  Une société ne pourra être reconnue valablement que si elle a été créé dans un pays où est pratiqué l'incorporation
+
+> Convention sur la reconnaissance mutuelle des sociétés et personnes morale du 29 février 1968. Elle n'est jamais entrée en vigueur.
+
+### Liberté d'établissement et libre prestation des services
+
+  *Séries d'exmple de décisions de justice*
+
+### Groupes de sociétés
+
+*Notion économique, et non réellement juridique*
+
+celà implique : 
+- Absence de personnalité morale
+- Absence de nationalité
+- Loi applicable (affaire Frue Hauf)
+  
+affaire Frue Hauf :
+
+Société américaine -> Société française -> Société française -> Société chinoise
+
+La société américaine annule le contrat, décision jugée contraire à l'intéret de la société française.
+
+## Formation d'une association ou d'une société
+---
+
+### Financement
+
+Par les associés ou actionnaires :
+
+1. les apports en numéraires (cash)
+2. les apports en nature (immobilier par exmeple)
+3. les apports en industrie (travail pour la société, estimer la valeur chiffrée)
+4. les comptes-courants associés (mouvements de cash entre société et entreprise)
+
+Création d'une société : Déposer le capital minimum
+
+Solde, Libération, souscription
+
+la souscription minimale est de 61,500€
+
+1/5 du capital apporté (au minimum) doit être libéré au moment de la constitution
+
+à tout moment, la société peut réclamer le versmeent immédiat de l'ensemble du solde (=souscription - ce qui est libéré).
+
+### Différence financement compte  courant vs numéraire, 
+numéraire, l'argent versé fait parti des capitaux (fonds propre de la société), et on reçoit des actions, alors que financement sous la forme de compte courant = prêt.
+
+- L'apport en compte courant ne permet pas d'obtenir des titres de la société
+- Rémunération financière sous forme d'intérêts est permise
+- Conditions pour avoir un compte courant d'associé
+- Pas de formalisme particulier, mais convention de compte courant recommandée
+- Remboursement à la première demande sauf blocage conventionnel
+- toujours créditeur
+
+### Autres possibilités de financement 
+
+### Financements à court terme
+
+- Crédits de trésorerie
+- Mobilisation de créances clients (cession des créances à une entreprise de factoring)
+  - l'affacturage (implique cession de créance à une société de factoring)
+  - Escomtpe commercial
+  - Cession de créances
+
+### Les emprunts bancaires
+
+  Il existe pour celà des garanties de différentes natures :
+  - Le cautionnement (la caution s'engage à payer la dette si le débiteur ne paye pas)
+    => contrat dangereux car engagement personnel ! (principe de sujetion uniforme !)
+  - Le gage sur fond de commerce (on remet un bien au créancier, et celui ci peut le "réaliser" pour se payer). Il peut s'agir de clientèle,...
+  - Le gage sur titres (sur des actions, obligations, n'importe quel titre possédé)
+  - L'hypothèque (porte sur des immeubles)
+
+## Gestion et Responsabilité 
+*Note : gouvernance d'entreprise (comp governments)*
+
+Il y un une différence majorité simple (50%) et majorité qualifiée (75%). C'est % sont déterminé par rapports aux apports (exception faîtes des coopératives).
+
+Ensemble des actionnaire : la société
+
+### Cas des SPRL et SARL
+*Rappel : ce sont des société __mixtes__*
+
+Choix d'un gérant, qui peut être statutaire ou non statutaire (il **peut** apparaître dans les statuts).
+Il est nommé et révoqué par l'AG, à titre gratuit ou rémunéré.
+En cas de mauvaise gestion, il est responsable auprès de l'AG.
+
+On peut limiter la possibilité d'être gérant aux associés.
+
+La nomination du gérant doit faire l'objet d'une publication.
+
+Le gérant doit agir dans les limites de l'objet social.
+
+Il a la signature social, et peut donc représenter la société auprès des tiers, mais ne peut engager la société qu'à la seule condition que sous son nom figure sa qualité de gérant.
+
+les gérants sont reponsables, individuellement ou solidairement en cas de faute commune, envers la socité ou envers les tiers.
+
+### Cas des Sociétés anonymes
+- **Système Moniste :**
+  
+    Conseil d'administration qui est désigné (possibilité d'un nombre minimum de personne, d'autres personne morale peuvent siégé, mais une personne physique doit etre désignée pour siéger).
+
+    Les mandats sont généraement du durée limitée, et les actionnaire peuvent faire parti du conseil d'administration. Ce conseil est un organe collégial. Si une mauvaise décision est prise, l'ensemble du conseil et en tort. L'absentéisme n'est pas une cause d'excsue. Le seul moyen d'échapper à la responsabilité est de prouver qu'on a été présent, qu'on a attiré l'attention sur cette mauvaise décision et qu'on a voté contre.
+
+    La loi prévoit une liste des pouvoirs du consiel d'administration.
+
+    Le conseil désigne souvent une, deux ou trois personnes (des directeurs), qui s'assurent de la bonne direction journalière. (DG, délégué à la gestion journalière, Chief Executive Offcier, etc...). Ce sont eux qui signent les documents.
+  
+
+
+
+
+---
 ### Projet de groupe
 
   sur n'importe quelle entreprise ou association non fictive, peu importe la nationalité, donc on a accès aux sources (exemple: Coca-cola, aucun soucis, attention à la localisation du siège social).
@@ -217,11 +385,73 @@ Critères de la nationalité des sociétés :
   - siège social (localisation)
   - forme juridique et raisons de cette forme
 
-Cas d'étude : facebook 
+Cas d'étude : Facebook 
 
-Nom de l'entreprise (dénomination)|  Siège Réel |Siège Social | Forme juridique
---- | --- |--- | ---|
-Facebook Inc. |1 Hacker Way Menlo Park, California 94025-1456|Delaware|  Corporation Parent
+Nom de l'entreprise (dénomination sociale)| Dénomination commerciale |  Siège Réel |Siège Social | Forme juridique
+--- | --- |--- | ---| ---
+Facebook Inc. | Facebook |1 Hacker Way Menlo Park, California 94025-1456|Delaware, 2711 Centerville Road, Suite 400, Wilmington, County of New Castle, 19808.|  Corporation Parent 
+=> signifie que Facebook Inc. est la société mère d'un groupe de sociétés (exemple : succursale à Paris)
+
+>“Parent” of an entity shall mean any entity that directly or indirectly owns or controls a majority of the voting power of the voting securities of such entity.
+
+Corporation : créaton d'une personnalité morale
+limite la reponsabilité des propriétaire à leurs apports en capital (comme LLC), mais la Corporation, elle, ne peut pas être fiscalement transparente
+
+La structure ne paie alors pas d'impôts sur ses bénéfices sur lesquels sont directement imposés les membres de la LLC, selon un pourcentage prédéterminé entre eux. Ce mécanisme élimine la double imposition que supporte le propriétaire d'une C Corp. Les bénéfices de cette dernière sont en effet imposés une première fois au sein de la société. Les actionnaires sont ensuite imposés sur les dividendes perçus, à l'image de ce qui existe en France dans les sociétés anonymes.  
 
 >sources : https://www.dnb.com/business-directory/company-profiles.facebook_inc.fd6b4047a896c55afdb1a1330a52af1d.html
 
+---
+
+## Plan 
+
+1. Introduction
+
+   -> Qu'est ce que facebook, leur produit (objet social) 
+   
+   -> raison sociale et le nom commercial
+
+   -> QUand sont ils rentré en bourse (pourquoi ? valeuir de l'action à 
+   l'entrée en bourse)
+
+   -> Changements de statuts (date, nom...)
+
+
+2. "Nationalité" de la société :
+   
+   -> Théorie de l'incorporation
+
+   -> Pourquoi est elle incorporée au delaware
+
+   -> Siege réel en Californie
+
+   -> siege "social" européen en irlande ?
+
+3. Financements
+   
+   -> Apports des actionnaires
+
+   -> Chiffre d'affaire
+
+   -> évolution de la valeur de l'action
+
+   -> montant souscris et libérés par les actionnaires
+
+   -> montant du capital et actionnariat
+  
+actionnariat : 
+Nom	| %
+--- | ---
+The Vanguard Group|	7,37 %
+Fidelity Management & Research	|4,80 %
+T. Rowe Price Associates|	4,45 %
+SSgA Funds Management|	3,86 %
+Capital Research & Management	|3,03 %
+BlackRock Fund Advisors	|2,45 %
+Capital Research & Management	|1,90 %
+Capital Research & Management|	1,72 %
+Geode Capital Management LLC|	1,34 %
+Northern Trust Investments|	1,19 %
+
+
+4. conclusion :
