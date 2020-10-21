@@ -14,7 +14,7 @@ enseignant: "Erik VAN DEN HAUTE"
   - Sources 
   - Le projet et ses implications juridiques
   - L'entreprise: typologie et identification
-  - L'entreprise dans un contecte international
+  - L'entreprise dans un contexte international
   - Formation d'une société et financement
   - Gestion & responsabilités
   - Propriété intellectuelle
@@ -401,6 +401,40 @@ L'entreprise facture le montant de base plus la tva, que l'entreprise perçoit e
 L'entreprise gère la collecte pour les organismes sociaux.
 
 ## Statut fiscal et social du dirigeant
+---
+
+
+# Droit des contrats
+*Note : la rédaction d'un contrat est une chose complexe que l'on ne sera sûrement pas amené à faire nous même*
+
+> Un contrat est un accord de volonté entre deux ou plusieurs personnes dans le but de produrie des effets juridiques.
+
+Un accord ne sera jamais suffisant pour définir un contrat, il faudra toujours "l'intention de produire des effets juridiques", voire, également une "contrepartie".
+
+Il y a 5 principes :
+  - __Le principe d'autonomie de la volonté__ : Les parties sont totalement libre de mettre ce qu'elle veulent dans le contrat, sous réserve des des dispositions d'ordre publique, bonnes moeurs (en fonction de la loi applicable), et des lois impératives (et donc aussi libre de contracter ou non). Cette liberté inclue aussi de pouvoir librement choisir la loi applicable à son contrat, ainsi qu'une clause attributive de juridiction (i.e arbitrage privé, juge qui règlera le litige...).
+  
+    *Note : la disposition d'ordre publique défent un intérêt général alors que la disposition d'ordre impérative défend un intérêt privé. Celà implique que dans le cadre d'une disposition d'ordre publique, tout le monde peut demander la nullité du contrat, tandis que dans une disposition d'ordre impérative, seule une partie du contrat peut demander sa nullité.*
+
+  - __Le principe de la convention-loi__ : Le contrat fait la loi des parties. Celles ci sont liées par le contrat ("*pacta sunt servanda*"). Si l'on est lié par un contrat, on ne peut donc pas s'en défaire unilatéralement (sauf exceptions). Les contrats se défont de la même manière qu'ils se font. Le juge ne peut donc pas non plus intervenir pour modifier le contenu du contrat. Dans certains pays, une renégociation du contrat est obligatoire en cas d'imprévu (cf théorie de l'imprévision). Si celle ci n'aboutit pas, le juge constatera la fin du contrat. Il est également possible que le contrat se dissolve de lui même (sans passer devant un juge) si les closes le mentionne. 
+
+  - __Le Principe du consensualisme__ : Il suffit de l'accord de volonté (donc l'échange de consentement) pour que le contrat soit valablement et durablement construit. Certains pays exigent une preuve écrite (surtout au delà d'un certain montant) dans le droit civil. Dans le commerce, celà n'est pas nécéssaire.
+
+  - __Le principe de la relativité des conventions__ : Un contrat ne peut avantager ni nuire à des tiers. Il ne peut créer d'obligations et de droits qu'en faveur des parties contractantes.
+  
+    *Note : "Privity of contract"*
+  
+    Exemple : Maître de l'ouvrage -> entrepreneur -> sous traitant. Si le maître de l'ouvrage ne paie pas l'entrepreneur, celui ci ne va pas avancer l'argent au sous traitant. Dans quelle mesure le sous-traitant peut agir contre le maître de l'ouvrage. Ceci représente une exception, tout comme les cantrats d'assurance, qui stipule d'un contrat d'assurance qui lie un assuré et son assurance, donne des droits à un sinstré. Une assurance peut mettre une close de protection envers la personne à qui appartiendront les biens lors du sinistre.
+
+  - __Le principe de l'exécution de bonne foi des conventions__ : Ce principe est également très lié à la culture. Il existe partout mais n'a pas la même portée partout.
+
+  
+
+### 
+
+
+
+###
 ---
 
 
