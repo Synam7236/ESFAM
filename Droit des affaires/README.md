@@ -426,9 +426,74 @@ Il y a 5 principes :
   
     Exemple : Maître de l'ouvrage -> entrepreneur -> sous traitant. Si le maître de l'ouvrage ne paie pas l'entrepreneur, celui ci ne va pas avancer l'argent au sous traitant. Dans quelle mesure le sous-traitant peut agir contre le maître de l'ouvrage. Ceci représente une exception, tout comme les cantrats d'assurance, qui stipule d'un contrat d'assurance qui lie un assuré et son assurance, donne des droits à un sinstré. Une assurance peut mettre une close de protection envers la personne à qui appartiendront les biens lors du sinistre.
 
-  - __Le principe de l'exécution de bonne foi des conventions__ : Ce principe est également très lié à la culture. Il existe partout mais n'a pas la même portée partout.
-
+  - __Le principe de l'exécution de bonne foi des conventions__ : Ce principe est également très lié à la culture. Il existe partout mais n'a pas la même portée partout. En Europe, ce principe affecte aussi la phase précontractuelle (exemple: rupture abusive des négociations préléminaires), ainsi que l'exécution du contrat (on ne peut pas se désintéresser du contrat). Elle peut aussi concerner les délais.
   
+## Phases du contrat :
+---
+
+### Phase précontractuelle (négociations et avant-contrats)
+
+  *Note : Phase temporelle*
+  
+  Il y a deux étape obligatoires, incontournable.
+
+  1. Il doit y avoir une offre
+  2. Il doit y avoir une acceptation.
+
+  L'offre a une valeur juridique et doit être suffisamment précise. Il est possible de formuler une réserve signifiant que l'annonce n'est pas une offre. Il faut prévoir une durée de l'offre.
+
+  L'acceptation doit mentionner en quel lieu et à quelle date elle a été faite. Le contrat est fait au lieu où l'acceptation a été reçu, ou au lieu d'où l'offre a été émise.
+
+  il faut tenir compte de : 
+
+    - l'Exclusivité des négociations : Pré-contrat par lequel on précise qu'une exclusivité des négociation est donnée. 
+    - La Confidentialité : On doit préciser l'objet de la confidentialité (la négociation, le contenu des négociations, etc...). On signe en général un accord de confidentialité. Il faut prévoir une compensation dissuasive très importants.
+    - Bonne foi (selon les systèmes juridiques) : Peut s'appliquer durant les pourparler préléminaire, et comme un argument contre la rupture abusive des pourparlers (essentiellement quand des frais ont déjà été engagés sur la base de ces négociations).
+    - Responsabilité précontactuelle (faute commise (non divulgation, non communication d'informations, rupture abusive...), dommage causé). 
+    - Avant-contrats (promesse de contrat, MOU) : différents accords, (Memorium Of Understanding, avoir un document qui n'est pas un contrat, "gentlemen's agreement"). Le nom du document ne lie pas le juge.
+
+### Conclusion du contrat (conditions de validité)
+*Note : Jour de la conclusion du contrat*
+
+  - Capacité : a t-on la capacité de signer le contrat (objet social, majorité, si le signataire n'a pas le pouvoir d'engager la société...). 
+  - Consentement : possibilité de vice de consentement (erreur **substantielle**, c'est à dire qu'en connaissance de l'erreur, on aurait pas contracté). Le vice peut également venir du fait que les consentements ne se sont jamais rencontrés.
+  - Objet : Doit être déterminé, ou déterminable sur les critères objectifs. L'objet doit être dans le commerce, 
+  
+  *Principe de reconnaissance mutuelle pour les produits et services, si un produit est commercialisé dans un pays de l'Union Européenne, il peut l'être partout.*
+
+
+### Inexécution : la responsabilité contractuelle
+
+  L'inexécution d'une obligation contractuelle est une faute contractuelle (une faute, un dommage, un lien entre une faute et un dommage et un contrat).
+  Les différentes sanctions peuvent être précisée dans le contrat lui même.
+  De manière classique, dans les systèmes de droit continental (non Common Law), les sanctions choisies par le créancier des obligations du contrat peuvent être :
+  - Exécution forcée en nature
+  - Résolution du contrat (ne peut être envisagée que dans les cas les plus graves): celà peut être une décision judiciaire ou extra-judiciaire (donc sur simple déclaration). La décisions judiciaire offre une garantie pour que l'autre partie ne puisse pas mettre fin volontairement pour inexécution du contrat.
+  - Diminution du prix (*Réfaction*) : forme de compensation financière par diminution du prix. Celà doit être prévu par le système juridique ou par le contrat.
+  - Dommages et intérets
+  - En cas de force majeure, il faudra prouver que l'exécution est devenue **impossible, imprévisible et irrésistible** pour que l'inexécution ne soit pas une faute
+
+  *Note : les sanctions ne sont pas cumulables (hors avec dommages et intérêts)*
+
+  Si la résolution se fait sur une exécution fautive, on doit remmetre la situation dans l'état dans laquelle elle aurait été si le contrat n'avait pas été passé.
+
+### Dissolution du contrat
+
+  Clauses de termination :
+
+  - Contrat à durée déterminée : ne peut pas être dissous avant l'échéance du terme, peut être renvouvelé (i.e prolongé aux mêmes conditions), et peut être unilatérale moyennant un préavis raisonnable (pour éviter le renouvellement).
+
+  - cotrat à durée indéterminée : A tout moment, peut être résolu unilatéralement moyennant un préavis avec un délais  prévu par une close du contrat ou un préavis avec un délais raisonnable.
+  - 
+  >Préavis : durée pendant laquelle le contrat reste pleinement actif alors que la décision de résilier unilatéralement le contrat est déjà prise.
+
+  *note : le délais raisonnable est par défaut à l'estimation du juge*
+
+
+  Exercice : prendre une close assez générale d'un contrat et expliquer ce qu'on en a compris
+
+  Article 11 : Toute contestation relative à l’exécution ou à l’interprétation du présent bail sera réglée à l’amiable entre les deux parties en cas d’échec la contestation sera soumise devant les tribunaux compétents de la R.D.C.
+
 
 ### 
 
@@ -473,13 +538,21 @@ La structure ne paie alors pas d'impôts sur ses bénéfices sur lesquels sont d
 1. Introduction
 
    -> Qu'est ce que facebook, leur produit (objet social) 
+
+
    
    -> raison sociale et le nom commercial
 
    -> QUand sont ils rentré en bourse (pourquoi ? valeuir de l'action à 
    l'entrée en bourse)
 
+    entrée en bourse : 2012 
+
    -> Changements de statuts (date, nom...)
+
+
+
+
 
 
 2. "Nationalité" de la société :
@@ -488,13 +561,19 @@ La structure ne paie alors pas d'impôts sur ses bénéfices sur lesquels sont d
 
    -> Pourquoi est elle incorporée au delaware
 
+
+
    -> Siege réel en Californie
 
    -> siege "social" européen en irlande ?
 
+
+
 3. Financements
    
    -> Apports des actionnaires
+
+
 
    -> Chiffre d'affaire
 
