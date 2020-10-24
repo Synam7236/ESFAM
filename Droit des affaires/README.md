@@ -416,7 +416,7 @@ Il y a 5 principes :
   
     *Note : la disposition d'ordre publique défent un intérêt général alors que la disposition d'ordre impérative défend un intérêt privé. Celà implique que dans le cadre d'une disposition d'ordre publique, tout le monde peut demander la nullité du contrat, tandis que dans une disposition d'ordre impérative, seule une partie du contrat peut demander sa nullité.*
 
-  - __Le principe de la convention-loi__ : Le contrat fait la loi des parties. Celles ci sont liées par le contrat ("*pacta sunt servanda*"). Si l'on est lié par un contrat, on ne peut donc pas s'en défaire unilatéralement (sauf exceptions). Les contrats se défont de la même manière qu'ils se font. Le juge ne peut donc pas non plus intervenir pour modifier le contenu du contrat. Dans certains pays, une renégociation du contrat est obligatoire en cas d'imprévu (cf théorie de l'imprévision). Si celle ci n'aboutit pas, le juge constatera la fin du contrat. Il est également possible que le contrat se dissolve de lui même (sans passer devant un juge) si les closes le mentionne. 
+  - __Le principe de la convention-loi__ : Le contrat fait la loi des parties. Celles ci sont liées par le contrat ("*pacta sunt servanda*"). Si l'on est lié par un contrat, on ne peut donc pas s'en défaire unilatéralement (sauf exceptions). Les contrats se défont de la même manière qu'ils se font. Le juge ne peut donc pas non plus intervenir pour modifier le contenu du contrat. Dans certains pays, une renégociation du contrat est obligatoire en cas d'imprévu (cf théorie de l'imprévision). Si celle ci n'aboutit pas, le juge constatera la fin du contrat. Il est également possible que le contrat se dissolve de lui même (sans passer devant un juge) si les clauses le mentionne. 
 
   - __Le Principe du consensualisme__ : Il suffit de l'accord de volonté (donc l'échange de consentement) pour que le contrat soit valablement et durablement construit. Certains pays exigent une preuve écrite (surtout au delà d'un certain montant) dans le droit civil. Dans le commerce, celà n'est pas nécéssaire.
 
@@ -424,7 +424,7 @@ Il y a 5 principes :
   
     *Note : "Privity of contract"*
   
-    Exemple : Maître de l'ouvrage -> entrepreneur -> sous traitant. Si le maître de l'ouvrage ne paie pas l'entrepreneur, celui ci ne va pas avancer l'argent au sous traitant. Dans quelle mesure le sous-traitant peut agir contre le maître de l'ouvrage. Ceci représente une exception, tout comme les cantrats d'assurance, qui stipule d'un contrat d'assurance qui lie un assuré et son assurance, donne des droits à un sinstré. Une assurance peut mettre une close de protection envers la personne à qui appartiendront les biens lors du sinistre.
+    Exemple : Maître de l'ouvrage -> entrepreneur -> sous traitant. Si le maître de l'ouvrage ne paie pas l'entrepreneur, celui ci ne va pas avancer l'argent au sous traitant. Dans quelle mesure le sous-traitant peut agir contre le maître de l'ouvrage. Ceci représente une exception, tout comme les cantrats d'assurance, qui stipule d'un contrat d'assurance qui lie un assuré et son assurance, donne des droits à un sinstré. Une assurance peut mettre une clause de protection envers la personne à qui appartiendront les biens lors du sinistre.
 
   - __Le principe de l'exécution de bonne foi des conventions__ : Ce principe est également très lié à la culture. Il existe partout mais n'a pas la même portée partout. En Europe, ce principe affecte aussi la phase précontractuelle (exemple: rupture abusive des négociations préléminaires), ainsi que l'exécution du contrat (on ne peut pas se désintéresser du contrat). Elle peut aussi concerner les délais.
   
@@ -483,29 +483,255 @@ Il y a 5 principes :
 
   - Contrat à durée déterminée : ne peut pas être dissous avant l'échéance du terme, peut être renvouvelé (i.e prolongé aux mêmes conditions), et peut être unilatérale moyennant un préavis raisonnable (pour éviter le renouvellement).
 
-  - cotrat à durée indéterminée : A tout moment, peut être résolu unilatéralement moyennant un préavis avec un délais  prévu par une close du contrat ou un préavis avec un délais raisonnable.
+  - cotrat à durée indéterminée : A tout moment, peut être résolu unilatéralement moyennant un préavis avec un délais  prévu par une clause du contrat ou un préavis avec un délais raisonnable.
   - 
   >Préavis : durée pendant laquelle le contrat reste pleinement actif alors que la décision de résilier unilatéralement le contrat est déjà prise.
 
   *note : le délais raisonnable est par défaut à l'estimation du juge*
 
 
-  Exercice : prendre une close assez générale d'un contrat et expliquer ce qu'on en a compris
+  __Exercice__ : prendre une clause assez générale d'un contrat et expliquer ce qu'on en a compris
 
-  Article 11 : Toute contestation relative à l’exécution ou à l’interprétation du présent bail sera réglée à l’amiable entre les deux parties en cas d’échec la contestation sera soumise devant les tribunaux compétents de la R.D.C.
-
-
-### 
+  > Article 11 : Toute contestation relative à l’exécution ou à l’interprétation du présent bail sera réglée à l’amiable entre les deux parties en cas d’échec la contestation sera soumise devant les tribunaux compétents de la R.D.C.
 
 
-
-###
+## Transactions commerciales
 ---
 
+  1. La vente
+  2. Le contrat d'entreprise
+  3. Les contrats de distribution
+  4. Les contrats de transfert de technologie
+  5. Le financement du contrat international
+
+
+### La vente (internationale de marchandises)
+
+  Pour qu'il y ait une vente, il doit y avoir **le transfert de propriété**, et **le paiement du prix en argent**. En l'absence d'un des deux éléments, il ne s'agit pas d'un contrat de vente.
+
+  >Convention de Viennes, convention de droit unforme de la vente internationale de marchandise chez tous les pays qui l'ont ratifier. Ne s'applique que dans les ventes entre les pays.
+
+  Vendeur | Acheteur
+  --- | ---
+  obligation de délivrance d'une chose conforme | Obligation de retirement (doit venir retirer le bien)
+  Garanti d'éviction (protection de l'acheteur) | Obligation du paiement
+
+  **Notion de délivrance :** encadré par les **International Commercial Terms (incoterms)**.
+  
+  Encadre : 
+  1. A quel moment la délivrance a eu lieu ?
+  2. A quel moment a lieu de transfert des risques (qui doit supporter les coûts de l'assurance) ?
+  3. Qui supporte les frais de la délivrance ?
+
+  N'encadre pas : le transfert de propriété (encadré par la loi nationale).
+
+  Il existe différents types d'incoterms (4 catégories).
+
+  **Notion de conformité :**
+  - Identité (par rapprot à la chose)
+  - Etat (défauts apparents)
+  - Qualité
+  - Quantité
+  - Défauts cachés (peut être distingué de l'obligation de délivrance, mais est considérée ainsi dans la convention de Viennes). Soit un défaut qui empêche l'usage normal, soit un défaut qui diminue un usage particulier de l'acheteur si celui ci en avait informé le vendeur (exemple, transporter 30T dans un 25T). un usage particulier doit pour celà être entré dans le **champ contractuel**.
+  
+  **garanti d'éviction :**
+  > C'est la garantie que l'acheteur ne soit pas dépossédé de la chose achetée (par un Verus Dominus, tiers qui a un droit de propriété sur la chose).
+
+### Le contrat d'entreprise / prestation de service
+  *Note : dérivé du contrat de vente. Ne porte pas sur un acte juridique*
+
+  > Contrat dans laquelle une personne que l'on appelle entrepreneur réalise de manière indépendante un travail qui consiste essentiellement dans l'accomplissement de prestations matérielles ou intellectuelles, pour le compte d'une autre personne, appelée le maître de l'ouvrage, moyennant le paiement d'un prix.
+
+  distinction avec le contrat de mandat : quelqu'un réalise une prestation pas forcément rémunérée mais portant sur un acte juridique.
+
+  *Note : Il existe des contrats mixtes ! On regardera l'aspect dominant du contrat*
+
+  distinction avec le contrat de travail : Les prestations de services accomplies moyennant une rémunération => correspond aussi à la définition du contrat de travail. Nuance, ici, on agit de manière **indépendante** (il est maître de son organisation, temps de travail... alors que l'employé doit respecter les directives de son employeur...).
+
+  *L'intitulé d'un contrat n'est pas déterminant ! Ce sont les intentions du contrats qui sont déterminées par les juges.*
+
+  >La convention de Viennes précise que la vente peut aussi porter sur des choses à fabriquer. Pour que ce soit une vente, la valeur des matériaux doit être plus importante que la valeur du travail.
+
+  Un autre critère est dans quel mesure il y a un degré de spécification (aspect sur mesure, au delà de l'aspect transfert de matériaux).
+
+  Distinction avec le contrat de vente : On vend un travail
+
+  Le maître d'ouvrage doit | L'entrepreneur doit
+  --- | ---
+  Faciliter le travail (tout mettre en oeuvre pour que l'entrepreneur puisse réaliser le travail), assurer la coordination sur le chantier si plusieurs entrepreneur travaillent en même temp | Réaliser le travail (convenablement)
+  Payer le prix (méthode forfaitaire déconseillée, l'entrepreneur assument les risques en cas de changement des prix des matériaux, ...), méthode de prix unitaire (mais demande une présence et une organisation), "cost+fee" = coût de revient de l'entrepreneur + marge bénéficiaire | Obligation d'information (consiste dans l'obligation d'attirer l'attention sur ce qui est possible ou non, d'informer des obstacles rencontrés, doit, le cas échéant formuler des réserves, et résister au client).
+  Accorder la réception (manière d'agréer, de reconnaître que le travail qui a été fait est conforme à ce qui a été conclu), reconnait que le travail est achevé (i.e transfert des risques, fin des pénalités de retard, commence à faire courir les délais de garanti)|
+
+  *Note: En cas de refus de la réception, l'entrepreneur peut contester la décision*
+
+  vice cachés
+
+  Contrats d'entreprises internationaux (Contrats FIDIC) 
+
+
+
+
+### Le contrat de distribution
+
+  *Note : Manière dont on va pouvoir mettre en place un réseau pour écouler un produit*
+
+  **Contrat d'agence commerciale :**
+  
+  > Contrat par lequel une personne, l'agent, apporte au nom et pour le compte d'une autre personne, le commettant, des clientes et/ou affaires
+
+   Ce contrat est signé entre un agent et un commettant. L'agent prospecte des clients qu'il ramène au client. Son but est d'obtenir une relation contractuelle direct entre le client et le commettant.
+   Celà ressemble à un mandat (représentant dans les relations avec les tiers)
+
+   *Note : en anglais, mandat = agency*
+
+  Agent :
+  -  L'agent est la partie faible à protéger (Directive UE 86/653).
+  -  Doit apporter des clients ou des affaires
+  -  Doit informer le commettant 
+  -  Doit se conformer aux instructions du commettant.
+  -  A un statut indépendant
+   
+  Commettant :
+  -  Doit mettre a disposition la documentation relative au produit
+  -  Doit rémunérer
+  -  Doit informer l'agent de tout évènement dont il a connaissance, et dont il sait que çà réduira significativement le nombre de "ventes"
+  
+  Enjeux :
+  - Résiliation du contrat (indemnité d'éviction dépendante du volume d'affaire apporté au commettant, dommages-intérêts...)
+  - Clause de non-concurrence post-contrat
+
+*Note : les clauses de non-concurrences ne sont valables que si limitées dans les temps, dans l'espace, et quant au type d'activités visées*
+
+  Contrat de concession (exclusive)/distribution exclusive :
+  > Contrat de distribution par lequel un fournisseur s'engage
+
+  Du point de vue du concédant :
+  - Moyen pour le fabricant de distribuer plus efficacement ses produits sur un territoire donné
+  - Le fabraicant ne peut pas vendre lui même ou faire appel à d'autres concessionnaires sur le m^me territoire
+  - 
+  Du point de vue du concessionnaire :
+  - Permet d'être le seul distributeur sur un territoire donné
+  - Concessionnaire bénéficie de l'image de marque du concédant,
+  - Contrat désavantageux si le concessionnaire éprouve des difficultés à écouler les marchandises
+
+  **Important !**
+  Bien identifier **les marchandises** et **le territoire** !
+
+  Contrat de franchise :
+  
+  > C'est un contrat par lequel une entreprise, le franchiseur, accorde moyennant rémunération à une autre, le franchisé, le droit d'exploiter son enseigne et son savoir-faire dans le but de commercialiser des types de produits et/ou de services déterminés par un concept.
+
+  Contrats extrêmement complexes. 
+
+  Obligation d'information précontractuelle (remis au plus tard 20 jours avant la signature du contrat pour la loi française):
+
+  - Identité physique et juridique de l'entreprise du franchisseur et du chef d'entreprise
+  - Renseignements sur la marque et l'enregistrement de l'entreprise
+  - Renseignements sur les domiciliations bancaires de l'entreprise
+  - Renseignements sur l'historique et l'expérience...
+
+
+### Les contrats de transfert de technologie
+
+  Volonté de transférer une technologie :
+
+  - licence de brevet : permet au client d'exploiter une technologie
+  - licence de savoir-faire : explications non brevetables pour utiliser le brevet (implique clause de non-confidentialité).
+  - Ingénierie de consulation et ingénierie commerciale
+  - Contrat de formation (pour former le client)
+  - Contrat de gestion initiale
+
+  Contrat clé en mains (contient tout celà)
+
+## Droit de la propriété intellectuelle
+---
+
+  L'idée générale est de protéger les créations de l'esprit
+
+ - Brevet d'invention
+ - Dessins & modèles
+ - Marques
+ - Droits d'auteur (?)
+ - Secret des affaires
+
+### Brevet d'invention 
+
+  > Un brevet est un titrz des propriété industrielle qui confère à son titulaire non pas un droit d'exploitation, mais un droit d'interdiction de l'exploitation par un tiers de l'invention à partir d'une certaine date et pour une durée limitée (20 ans en général)
+
+  Conditions pour être brevetable :
+  - etre absolument nouvelle 
+
+  Protection :
+  - Brevet européen
+  - Autres protections régionales
+  - Convention de Paris
+
+### Dessins et modèles
+
+> Les dessins et modèles protègent l'apparence d'un produit ou partie de celui ci
+
+Conditions de la protection :
+- Il faut un produit
+- La création doit etre apparente, donc visible et concrète et matériellement réalisable
+- la création doit être nouvelle et originale
+
+La protection dure 5 ans (?)
+
+### Marques
+
+> La marque est un signe distinctif...
+
+  Conditions de dépôt:
+  - Le signe doit être distinctif pour les produits ou services visés dans l'acte de dépôt et doit donc être suceptible d'identifier l'entreprise ...
+  - Le signe ne doit pas être contraire aux bonnes moeurs et à l'ordre public
+  - Le signe ne doit pas évoquer une marque ou une dénomination antérieure
+  - Le signe ne doit pas décevoir : il ne doit pas tromper le public quant à la provenance ou la qualité des produtis ou services
+
+### Droits d'auteurs
+
+Droit moraux et droit patrimoniaux
+
+### Secret des affaires
+  - Pas des protections des idées
+  - Signature d'accords de confidentialités avec les collaborateurs
+  - Signature d'accords de confidentialité avec les tiers.
+
+N'empêche pas de lancer des alertes (prévu par une directive européenne).
+
+## Droit international privé
+*Note : chaque pays applique son propre droit international privé*
+
+S'occupe de 3 choses :
+- Détermination de la loi applicable
+- Détermination du juge compétent
+- Reconnaissance des jugements
+
+### Détermination du juge compétent
+
+ règles de compétence générale vs règle de compétence spéciales
+
+ ou règles de compétence exclusive
+
+ **Règle de compétence générale**
+> Sous réserve du présent règlement, les personnes domiciliées sur le territoire d'un Etat membre sont attraites, quelle que soit leur nationalité, devant les juridictions de cet état membre.
+
+**Règle de compétence spéciale**
+
+  Une personne domiciliée sur le territoire d'un état membre peut être attraite dans un autre état membre, 
+  - En matière contractuelle, devant la juridiction du lieux d'exécution de l'obligation qui sert de base à la demande.
+  - En matière délictuelle ou quasi délictuelle, devant la juridiction...
+
+**Règle de compétence exclusive**
+
+  Sont seules compétentes les juridictions ci-après d'un Etat membre, sans considération de domicile des parties :
+  - En matière de droits reals immobiliers de de baux d'immeubles, les juridictions de l'Etat membre où l'immeuble est situé.
+  - En matière de validité, de nullité ou de dissolution des sociétés ou personnes morales, ou de validité des décisions de leurs organes, les juridictions de l'Etat membre sur le territoire duquel cellies-ci ont leur siège. Pour déterminer le siège, le juge applique les règles de son droit international privé.
+
 
 
 ---
-### Projet de groupe
+
+# Projet de groupe
 
   sur n'importe quelle entreprise ou association non fictive, peu importe la nationalité, donc on a accès aux sources (exemple: Coca-cola, aucun soucis, attention à la localisation du siège social).
 
@@ -520,6 +746,7 @@ Cas d'étude : Facebook
 Nom de l'entreprise (dénomination sociale)| Dénomination commerciale |  Siège Réel |Siège Social | Forme juridique
 --- | --- |--- | ---| ---
 Facebook Inc. | Facebook |1 Hacker Way Menlo Park, California 94025-1456|Delaware, 2711 Centerville Road, Suite 400, Wilmington, County of New Castle, 19808.|  Corporation Parent 
+
 => signifie que Facebook Inc. est la société mère d'un groupe de sociétés (exemple : succursale à Paris)
 
 >“Parent” of an entity shall mean any entity that directly or indirectly owns or controls a majority of the voting power of the voting securities of such entity.
@@ -543,12 +770,24 @@ La structure ne paie alors pas d'impôts sur ses bénéfices sur lesquels sont d
    
    -> raison sociale et le nom commercial
 
+    Nom commercial, facebook, raison social :
+    
+    ARTICLE III: PURPOSE
+
+    >The purpose of the corporation is to engage in any lawful act or activity for which corporations may be organized under the General Corporation Law of the State of Delaware (“General Corporation Law”).
+
    -> QUand sont ils rentré en bourse (pourquoi ? valeuir de l'action à 
    l'entrée en bourse)
 
     entrée en bourse : 2012 
 
+    nombre d'actions vendues :
+
+    Capital
+
    -> Changements de statuts (date, nom...)
+
+
 
 
 
@@ -599,3 +838,6 @@ Northern Trust Investments|	1,19 %
 
 
 4. conclusion :
+
+
+*possibilité d'intégrer les contrats habituellement signés (PI ? transfert de technologies)*
